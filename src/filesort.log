@@ -1,0 +1,53 @@
+2025-11-01 14:16:12,850 - root - INFO - Arguments valid.
+2025-11-01 14:16:12,850 - root - INFO - Running...
+2025-11-01 14:16:12,850 - root - INFO - Scanning for files...
+2025-11-01 14:16:12,851 - root - INFO - Classifying files...
+2025-11-01 14:16:12,851 - filesort.classify - INFO - Classified documents1.pdf as document.
+2025-11-01 14:16:12,851 - filesort.classify - INFO - Classified documents2.docx as document.
+2025-11-01 14:16:12,852 - filesort.classify - INFO - Classified documents3.txt as document.
+2025-11-01 14:16:12,852 - filesort.classify - INFO - Classified documents4.odt as document.
+2025-11-01 14:16:12,852 - filesort.classify - INFO - Classified images1.jpg as image.
+2025-11-01 14:16:12,852 - filesort.classify - INFO - Classified images2.png as image.
+2025-11-01 14:16:12,852 - filesort.classify - INFO - Classified images3.gif as image.
+2025-11-01 14:16:12,852 - filesort.classify - INFO - Classified images4.bmp as image.
+2025-11-01 14:16:12,852 - filesort.classify - INFO - Classified audio1.mp3 as audio.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified audio2.wav as audio.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified video1.mp4 as video.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified video2.avi as video.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified archives1.zip as archive.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified archives2.tar.gz as archive.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified code1.py as code.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified code2.js as code.
+2025-11-01 14:16:12,853 - filesort.classify - INFO - Classified code3.html as code.
+2025-11-01 14:16:12,854 - filesort.classify - INFO - Classified code4.css as code.
+2025-11-01 14:16:12,854 - filesort.classify - INFO - Classified presentations1.pptx as presentation.
+2025-11-01 14:16:12,854 - filesort.classify - INFO - Classified presentations2.odp as presentation.
+2025-11-01 14:16:12,854 - root - INFO - Moving files...
+2025-11-01 14:16:12,854 - root - INFO - Created directory 'image'.
+2025-11-01 14:16:12,855 - root - INFO - Copied file: 'images1.jpg'.
+2025-11-01 14:16:12,855 - root - INFO - Copied file: 'images2.png'.
+2025-11-01 14:16:12,856 - root - INFO - Copied file: 'images3.gif'.
+2025-11-01 14:16:12,856 - root - INFO - Copied file: 'images4.bmp'.
+2025-11-01 14:16:12,857 - root - INFO - Created directory 'document'.
+2025-11-01 14:16:12,857 - root - INFO - Copied file: 'documents1.pdf'.
+2025-11-01 14:16:12,858 - root - INFO - Copied file: 'documents2.docx'.
+2025-11-01 14:16:12,858 - root - INFO - Copied file: 'documents3.txt'.
+2025-11-01 14:16:12,859 - root - INFO - Copied file: 'documents4.odt'.
+2025-11-01 14:16:12,859 - root - INFO - Created directory 'presentation'.
+2025-11-01 14:16:12,859 - root - INFO - Copied file: 'presentations1.pptx'.
+2025-11-01 14:16:12,860 - root - INFO - Copied file: 'presentations2.odp'.
+2025-11-01 14:16:12,860 - root - INFO - Created directory 'audio'.
+2025-11-01 14:16:12,860 - root - INFO - Copied file: 'audio1.mp3'.
+2025-11-01 14:16:12,860 - root - INFO - Copied file: 'audio2.wav'.
+2025-11-01 14:16:12,861 - root - INFO - Created directory 'video'.
+2025-11-01 14:16:12,861 - root - INFO - Copied file: 'video1.mp4'.
+2025-11-01 14:16:12,861 - root - INFO - Copied file: 'video2.avi'.
+2025-11-01 14:16:12,861 - root - INFO - Created directory 'archive'.
+2025-11-01 14:16:12,862 - root - INFO - Copied file: 'archives1.zip'.
+2025-11-01 14:16:12,862 - root - INFO - Copied file: 'archives2.tar.gz'.
+2025-11-01 14:16:12,862 - root - INFO - Created directory 'code'.
+2025-11-01 14:16:12,862 - root - INFO - Copied file: 'code1.py'.
+2025-11-01 14:16:12,863 - root - INFO - Copied file: 'code2.js'.
+2025-11-01 14:16:12,863 - root - INFO - Copied file: 'code3.html'.
+2025-11-01 14:16:12,863 - root - INFO - Copied file: 'code4.css'.
+2025-11-01 14:16:12,863 - root - INFO - Done.
